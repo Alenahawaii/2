@@ -1,0 +1,14 @@
+C:\c#lessons\y\Yy\homeWork_\bin\Debug\net7.0\homeWork_.exe
+C:\c#lessons\y\Yy\homeWork_\bin\Debug\net7.0\homeWork_.deps.json
+C:\c#lessons\y\Yy\homeWork_\bin\Debug\net7.0\homeWork_.runtimeconfig.json
+C:\c#lessons\y\Yy\homeWork_\bin\Debug\net7.0\homeWork_.dll
+C:\c#lessons\y\Yy\homeWork_\bin\Debug\net7.0\homeWork_.pdb
+C:\c#lessons\y\Yy\homeWork_\obj\Debug\net7.0\homeWork_.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#lessons\y\Yy\homeWork_\obj\Debug\net7.0\homeWork_.AssemblyInfoInputs.cache
+C:\c#lessons\y\Yy\homeWork_\obj\Debug\net7.0\homeWork_.AssemblyInfo.cs
+C:\c#lessons\y\Yy\homeWork_\obj\Debug\net7.0\homeWork_.csproj.CoreCompileInputs.cache
+C:\c#lessons\y\Yy\homeWork_\obj\Debug\net7.0\homeWork_.dll
+C:\c#lessons\y\Yy\homeWork_\obj\Debug\net7.0\refint\homeWork_.dll
+C:\c#lessons\y\Yy\homeWork_\obj\Debug\net7.0\homeWork_.pdb
+C:\c#lessons\y\Yy\homeWork_\obj\Debug\net7.0\homeWork_.genruntimeconfig.cache
+C:\c#lessons\y\Yy\homeWork_\obj\Debug\net7.0\ref\homeWork_.dll
